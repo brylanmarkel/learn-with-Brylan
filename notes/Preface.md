@@ -7,6 +7,6 @@ Hey! I’m Brylan Donaldson, and it looks like you're here to peek inside my bra
 
 Ready to give it a try and see what you can learn?
 
-For now, there’s no index or navigational aids: you’ll need to follow a link to some starting point. You might be interested in §[[Beginning of Infinity]].
+For now, there’s no index or navigational aids: you’ll need to follow a link to some starting point. You might be interested in [[§What’s top of mind]].
 
 👋 Brylan ([email](mailto:brylan@cowrkwithme.com), [Twitter](https://twitter.com/0xHimzel), [Podcast](https://open.spotify.com/show/1ZgWdURhqi0S2q2SExfqbW?si=a1f23e04c34c4dc5))
