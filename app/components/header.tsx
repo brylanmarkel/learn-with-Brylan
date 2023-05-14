@@ -8,11 +8,5 @@ export const Header: React.FC = () => (
         <a>Learn with Brylan</a>
       </Link>
     </h1>
-
-    <h3 className="md:text-base text-sm font-normal">
-      <Link href="/About">
-        <a>About these notes</a>
-      </Link>
-    </h3>
   </div>
 )
