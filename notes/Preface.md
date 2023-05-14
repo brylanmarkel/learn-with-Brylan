@@ -1,5 +1,5 @@
 ---
-title: The Beginning of Infinity
+title: Learn with Brylan
 ---
 
 The [[Beginning of Infinity]] contains an inspiring message for humanity. Author [[David Deutsch]] describes the processes through which our species has emerged from a dirt-scratching purgatory to today's towering technological heights. And how, in the future, we have the potential to achieve our wildest possible dreams.
