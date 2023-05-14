@@ -6,7 +6,7 @@ function MyApp({Component, pageProps}: AppProps) {
   return (
     <>
       <Head>
-        <title>The Beginning of Infinity</title>
+        <title>Learn with Brylan</title>
 
         <meta
           name="description"
