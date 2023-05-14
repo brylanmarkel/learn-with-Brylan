@@ -3,9 +3,9 @@ title: Learn with Brylan
 ---
 
 # About these notes
-Hi! I’m Brylan Donaldson. You’ve stumbled upon my working notes. They’re kind of strange, so some context might help.
+Hey! I’m Brylan Donaldson, and it looks like you're here to peek inside my brain. These notes are essentially my stream of consciousness, where I document my insights, ideas, and inspirations. I’ve decided to share them as an experiment and see what kind of conversations it might stimulate. Just keep in mind that these notes are for me, so they may seem a bit confusing or under-explained. But maybe that’s what makes them so interesting to read? 
 
-These notes are mostly written for myself: they’re roughly my thinking environment (Evergreen notes; My morning writing practice). But I’m sharing them publicly as an experiment (Work with the garage door up). If a note seems confusing or under-explained, it’s probably because I didn’t write it for you! Sorry—that’s sort of an essential tension of this experiment (Write notes for yourself by default, disregarding audience).
+Ready to give it a try and see what you can learn?
 
 For now, there’s no index or navigational aids: you’ll need to follow a link to some starting point. You might be interested in §What’s top of mind.
 
