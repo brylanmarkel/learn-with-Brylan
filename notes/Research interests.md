@@ -47,3 +47,8 @@ Here I document the different areas and questions I'm currently exploring and go
 ## Defense Tech
 
 ## Robotics
+
+## Science
+- [[What was the Mahanttan Project?]]
+- [[What is the atomic bomb?]]
+- [[What are the regulations that govern nuclear power?]]
