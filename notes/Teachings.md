@@ -1,12 +1,12 @@
 # Teachings
 
-Workshops, Twitter threads, and podcasts I've done to educate others.
+Workshops, writing, and podcasts I've done to educate others.
 
 ## Workshops
 - [Learn what 99% of people don’t know when working with ChatGPT](https://docs.google.com/presentation/d/1W4_0zTYCy9xLr3roOsvPAzaRMto6OxccmGq80dxfWsI/edit?usp=sharing)
 - [(WTF) What the Freedom](https://docs.google.com/presentation/d/1UGiWx8P8nEUCgwcEAsrR16qFEn6HjMEcArnqwK7JWaY/edit?usp=sharing)
 
-## Twitter threads
+## Writing
 
 ## In The Midst Of podcast
 - [But, God!](https://open.spotify.com/episode/3vvsTqFM2t7CXsPrC2z2Y1?si=r87poj9yRxCNbdusZ5bDJg)

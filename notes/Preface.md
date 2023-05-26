@@ -1,5 +1,5 @@
 ---
-title: Learn with Brylan
+title: A Space To Think With Brylan
 ---
 
 # About these notes
