@@ -7,6 +7,7 @@ Workshops, writing, and podcasts I've done to educate others.
 - [(WTF) What the Freedom](https://docs.google.com/presentation/d/1UGiWx8P8nEUCgwcEAsrR16qFEn6HjMEcArnqwK7JWaY/edit?usp=sharing)
 
 ## Writing
+- [A Space To Think about the obstacles you don't see, the future of energy, and growing as a leader](https://aspacetothink.substack.com/p/a-space-to-think-about-the-obstacles)
 
 ## In The Midst Of podcast
 - [But, God!](https://open.spotify.com/episode/3vvsTqFM2t7CXsPrC2z2Y1?si=r87poj9yRxCNbdusZ5bDJg)
